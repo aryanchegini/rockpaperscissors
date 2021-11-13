@@ -1,5 +1,5 @@
 # rockpaperscissors
 
-a game by aryan chegini
+by aryan chegini
 
 [Live Preview](https://aryanchegini.github.io/rockpaperscissors/)
