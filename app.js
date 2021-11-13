@@ -1,4 +1,4 @@
-let game = () => {
+const game = () => {
     let pScore = 0;
     let cScore = 0;
     const options = ['rock', 'paper', 'scissors']
