@@ -110,7 +110,7 @@ button:active {
         width: 75vw;
     }
 
-    .selections {
+    .options {
         display: flex;
         flex-direction: column;
         align-items: center;
